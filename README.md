@@ -1,82 +1,65 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:312e81,70:6d28d9,100:06b6d4&text=THUNDER%20MAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:312e81,75:6d28d9,100:00d4ff&height=230&section=header&text=THUNDER%20MAN&fontSize= sixty&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI%20EXPLORER&descAlignY=60&descSize=15" width="100%" />
 
 # ⚡ THUNDER MAN
 
-### `Full Stack Developer | MERN Stack | AI Enthusiast`
+### Full Stack Developer · MERN Stack · AI Explorer
 
-**I don't just write code. I build digital experiences.**
+*Building digital products. Exploring new technologies. Turning ideas into reality.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Creating+AI+Powered+Experiences;Exploring+3D+Web+Development;Turning+Ideas+Into+Reality" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-THUNDER%20MAN-111827?style=for-the-badge&logo=github)](https://github.com/Adikesh59)
-[![Profile Views](https://komarev.com/ghpvc/?username=Adikesh59&style=for-the-badge&color=7c3aed)](https://github.com/Adikesh59)
+[![GitHub](https://img.shields.io/badge/GitHub-Adikesh59-181717?style=for-the-badge&logo=github)](https://github.com/Adikesh59)
+[![MoodMate](https://img.shields.io/badge/Live_Project-MoodMate_AI-7c3aed?style=for-the-badge&logo=render&logoColor=white)](https://moodmate-hoou.onrender.com)
 
 </div>
 
 ---
 
-## 🎮 PLAYER ONE — DEVELOPER PROFILE
+## `01` — ABOUT ME
 
-```yaml
-Name: THUNDER MAN
-Role: Full Stack Developer
-Specialization: MERN Stack Development
-Interests:
-  - Artificial Intelligence
-  - 3D Web Experiences
-  - Creative UI/UX
-  - Full Stack Applications
-  - Game Development
-Mission: Build. Innovate. Deploy.
-Status: Always Leveling Up ⚡
-```
+Hey! I'm **Thunder Man**, a developer passionate about building full-stack applications and experimenting with AI-powered products.
 
-### 👨‍💻 About Me
+I enjoy working across the frontend and backend, designing user experiences, connecting APIs, and transforming ideas into working applications.
 
-I'm a passionate developer who loves building modern web applications, experimenting with artificial intelligence, and creating interactive digital experiences.
-
-- 💻 Building full-stack applications using the MERN stack.
-- ⚡ Developing modern and responsive frontend experiences.
-- 🤖 Exploring AI-powered applications and intelligent agents.
-- 🌌 Interested in Three.js, 3D websites, and creative interfaces.
-- 🚀 Turning ambitious ideas into real-world products.
-- 🎯 Always learning new technologies and improving my skills.
+- 💻 Focused on **MERN Stack Development**
+- ⚛️ Building modern interfaces with React
+- 🛠️ Developing backend applications with Node.js and Express
+- 🍃 Working with MongoDB and REST APIs
+- 🤖 Exploring AI integrations and intelligent applications
+- 🌌 Interested in Three.js, 3D web experiences and creative development
+- 🎯 Always learning, building and improving
 
 ---
 
-## ⚔️ TECH STACK — MY ARSENAL
+## `02` — TECH STACK
 
 <div align="center">
 
-### 🎨 FRONTEND DEVELOPMENT
+**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
-### ⚙️ BACKEND DEVELOPMENT
+**BACKEND**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-### 🗄️ DATABASE & CLOUD
+**DATABASE**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
-### 🧰 TOOLS & DEVELOPMENT
+**TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-### 🌐 3D & CREATIVE TECHNOLOGIES
+**EXPLORING**
 
-<img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=threejs,python,java&theme=dark" />
 
 </div>
 
 ---
 
-## 🏆 BOSS LEVEL — FEATURED PROJECTS
+## `03` — SELECTED PROJECTS
 
 <table>
 <tr>
@@ -84,22 +67,30 @@ I'm a passionate developer who loves building modern web applications, experimen
 
 ### 🤖 MoodMate AI
 
-An AI-powered virtual companion with five unique personalities.
+**AI-powered virtual companion**
 
-**Features:** Happy · Sad · Funny · Roast · Love
+A fun virtual assistant with five unique moods and conversational experiences.
 
-[🚀 LIVE DEMO](https://moodmate-hoou.onrender.com)
+- Happy
+- Sad
+- Funny
+- Roast
+- Love
 
-[💻 SOURCE CODE](https://github.com/Adikesh59/moodmate)
+[**Explore Live Project →**](https://moodmate-hoou.onrender.com)
+
+[**View Source Code →**](https://github.com/Adikesh59/moodmate)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Cold Mail Generator
+### 🧠 AI Cold Mail & Resume Analyzer
 
-An AI-powered outreach platform concept for personalized cold emails, professional communication, and resume-based insights.
+**AI-powered career and outreach tool**
 
-**Focus:** AI · Automation · MERN
+A project focused on generating personalized cold emails and analyzing resumes using company context.
+
+*In development*
 
 </td>
 </tr>
@@ -108,18 +99,22 @@ An AI-powered outreach platform concept for personalized cold emails, profession
 
 ### 📋 LocalForms
 
-An offline-first desktop forms application concept with local document storage and form management.
+**Desktop form management application**
 
-**Focus:** Desktop Applications · React · Local Storage
+An offline-first forms application concept for creating forms and storing submitted documents locally.
+
+*Project concept / development*
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Multi-AI Platform
+### ⚡ Multi-AI Workspace
 
-A platform concept connecting multiple AI models with an intelligent fallback system to continue ongoing projects.
+**Multiple AI models in one workspace**
 
-**Focus:** AI Agents · APIs · Automation
+A platform concept for connecting AI models and switching between providers to continue ongoing tasks.
+
+*Project concept*
 
 </td>
 </tr>
@@ -127,72 +122,69 @@ A platform concept connecting multiple AI models with an intelligent fallback sy
 
 ---
 
-## 🕹️ ARCADE ZONE — GAMING & 3D
+## `04` — THE ARCADE
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Retro arcade animation"/>
+### 🎮 CODE IS MY GAME. BUILDING IS MY ADVENTURE.
 
-### `GAME ON. LEVEL UP. NEVER STOP.`
- 
-**Exploring the world of interactive experiences, 3D graphics and game development.**
+**What I'm exploring:**
 
-| 🎮 Game Development | 🌌 3D Experiences |
-|:---:|:---:|
-| Interactive browser games | Three.js experiments |
-| JavaScript game logic | 3D animations |
-| Creative game interfaces | WebGL exploration |
+| <div align="center">🕹️</div> | <div align="center">🌌</div> | <div align="center">⚡</div> |
+|:---:|:---:|:---:|
+| Browser Games | 3D Web Experiences | Interactive UI |
+| JavaScript Game Logic | Three.js | Creative Animations |
+
+*More experiments and interactive projects coming soon.*
 
 </div>
 
 ---
 
-## 🐍 SNAKE MODE — CONTRIBUTION HUNT
+## `05` — GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adikesh59/Adikesh59/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikesh59&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050816&title_color=00D9FF&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub statistics" />
 
-`EAT • CODE • REPEAT`
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikesh59&layout=compact&hide_border=true&theme=tokyonight&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" alt="Most used languages" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Adikesh59&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🌌 3D CONTRIBUTION UNIVERSE
+## `06` — 3D CONTRIBUTION WORLD
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
+*My GitHub activity, visualized in 3D.*
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
 </div>
 
 ---
 
-## 📊 GITHUB PLAYER STATISTICS
+## `07` — SNAKE GAME: CONTRIBUTION HUNT
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikesh59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>
+*Watch the snake collect my GitHub contributions.*
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikesh59&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Adikesh59&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF"/>
+<img src="https://raw.githubusercontent.com/Adikesh59/Adikesh59/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
 ---
 
-## 🏁 DEVELOPER PHILOSOPHY
-
 <div align="center">
 
-### `THINK BIG. BUILD SMART. SHIP FAST.`
+### ⚡ THINK. BUILD. DEPLOY. REPEAT.
 
-*"The best way to predict the future is to build it."*
+**Thanks for visiting my profile!**
 
-### ⚡ THUNDER MAN — SYSTEM ONLINE
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:020617&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:312e81,100:050816&height=130&section=footer" width="100%" />
 
 </div>
