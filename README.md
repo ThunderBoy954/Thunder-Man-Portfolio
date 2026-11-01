@@ -1,106 +1,125 @@
- 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:312e81,100:00d4ff&height=220&section=header&text=ADIKESH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20CREATIVE%20CODER&descAlignY=60&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:312e81,70:6d28d9,100:06b6d4&text=THUNDER%20MAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20DIGITAL%20CREATOR&descSize=15&descAlignY=60" width="100%"/>
 
-# 👾 Hey, I'm Adikesh!
+# ⚡ THUNDER MAN
 
-### `Building the future, one line of code at a time.`
+### `Full Stack Developer | MERN Stack | AI Enthusiast`
 
-**Full Stack Developer | MERN Stack | AI Enthusiast | Creative Developer**
+**I don't just write code. I build digital experiences.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adikesh59)
-[![Profile Views](https://komarev.com/ghpvc/?username=Adikesh59&style=for-the-badge&color=blueviolet)](https://github.com/Adikesh59)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications;Creating+AI+Powered+Experiences;Exploring+3D+Web+Development;Turning+Ideas+Into+Reality" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-THUNDER%20MAN-111827?style=for-the-badge&logo=github)](https://github.com/Adikesh59)
+[![Profile Views](https://komarev.com/ghpvc/?username=Adikesh59&style=for-the-badge&color=7c3aed)](https://github.com/Adikesh59)
 
 </div>
 
 ---
 
-## 🕹️ PLAYER PROFILE
+## 🎮 PLAYER ONE — DEVELOPER PROFILE
 
-```text
-╔══════════════════════════════════════════════╗
-║             DEVELOPER PROFILE                ║
-╠══════════════════════════════════════════════╣
-║  PLAYER       : ADIKESH                      ║
-║  CLASS        : FULL STACK DEVELOPER         ║
-║  SPECIALITY   : MERN STACK & AI              ║
-║  CURRENT MODE : BUILDING SOMETHING NEW       ║
-║  OBJECTIVE    : TURN IDEAS INTO REALITY      ║
-╚══════════════════════════════════════════════╝
+```yaml
+Name: THUNDER MAN
+Role: Full Stack Developer
+Specialization: MERN Stack Development
+Interests:
+  - Artificial Intelligence
+  - 3D Web Experiences
+  - Creative UI/UX
+  - Full Stack Applications
+  - Game Development
+Mission: Build. Innovate. Deploy.
+Status: Always Leveling Up ⚡
 ```
 
-I'm a developer who loves building creative digital experiences, experimenting with AI, and turning ambitious ideas into real-world applications.
+### 👨‍💻 About Me
 
-- 🚀 Building full-stack web applications.
+I'm a passionate developer who loves building modern web applications, experimenting with artificial intelligence, and creating interactive digital experiences.
+
+- 💻 Building full-stack applications using the MERN stack.
+- ⚡ Developing modern and responsive frontend experiences.
 - 🤖 Exploring AI-powered applications and intelligent agents.
-- 🎮 Interested in 3D websites, animations, and interactive experiences.
-- 💡 Always learning, experimenting, and creating.
+- 🌌 Interested in Three.js, 3D websites, and creative interfaces.
+- 🚀 Turning ambitious ideas into real-world products.
+- 🎯 Always learning new technologies and improving my skills.
 
 ---
 
-## ⚔️ TECH ARSENAL
+## ⚔️ TECH STACK — MY ARSENAL
 
 <div align="center">
 
-### FRONTEND
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+### 🎨 FRONTEND DEVELOPMENT
 
-### BACKEND & DATABASE
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&theme=dark" />
 
-### TOOLS & PLATFORMS
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+### ⚙️ BACKEND DEVELOPMENT
 
-### EXPLORING
-<img src="https://skillicons.dev/icons?i=threejs,python,java,androidstudio" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
+
+### 🗄️ DATABASE & CLOUD
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+
+### 🧰 TOOLS & DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render&theme=dark" />
+
+### 🌐 3D & CREATIVE TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🏆 BOSS LEVEL — FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 MoodMate AI
 
-An AI virtual companion with five different moods:
+An AI-powered virtual companion with five unique personalities.
 
-`Happy` `Sad` `Funny` `Roast` `Love`
+**Features:** Happy · Sad · Funny · Roast · Love
 
-[🌐 Live Demo](https://moodmate-hoou.onrender.com)
+[🚀 LIVE DEMO](https://moodmate-hoou.onrender.com)
+
+[💻 SOURCE CODE](https://github.com/Adikesh59/moodmate)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 AI Cold Mail Generator
 
-An AI-powered project focused on personalized cold emails, outreach sequences, and resume-based insights.
+An AI-powered outreach platform concept for personalized cold emails, professional communication, and resume-based insights.
 
-`AI` `MERN` `Automation`
+**Focus:** AI · Automation · MERN
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📋 LocalForms
 
-A desktop forms application concept focused on creating forms and storing data locally.
+An offline-first desktop forms application concept with local document storage and form management.
 
-`Desktop App` `React` `Electron`
+**Focus:** Desktop Applications · React · Local Storage
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Multi-AI Platform
 
-A concept for connecting multiple AI models and continuing projects with alternative models when usage limits are reached.
+A platform concept connecting multiple AI models with an intelligent fallback system to continue ongoing projects.
 
-`AI Agents` `APIs` `Automation`
+**Focus:** AI Agents · APIs · Automation
 
 </td>
 </tr>
@@ -108,48 +127,72 @@ A concept for connecting multiple AI models and continuing projects with alterna
 
 ---
 
-## 📊 PLAYER STATISTICS
+## 🕹️ ARCADE ZONE — GAMING & 3D
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adikesh59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00d4ff&icon_color=8b5cf6&text_color=ffffff" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Retro arcade animation"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikesh59&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00d4ff&text_color=ffffff" />
+### `GAME ON. LEVEL UP. NEVER STOP.`
+ 
+**Exploring the world of interactive experiences, 3D graphics and game development.**
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Adikesh59&theme=tokyonight&hide_border=true&background=050816&ring=00d4ff&fire=8b5cf6&currStreakLabel=00d4ff" />
+| 🎮 Game Development | 🌌 3D Experiences |
+|:---:|:---:|
+| Interactive browser games | Three.js experiments |
+| JavaScript game logic | 3D animations |
+| Creative game interfaces | WebGL exploration |
 
 </div>
 
 ---
 
-## 🧊 3D CONTRIBUTION WORLD
+## 🐍 SNAKE MODE — CONTRIBUTION HUNT
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contributions" />
+<img src="https://raw.githubusercontent.com/Adikesh59/Adikesh59/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+`EAT • CODE • REPEAT`
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🌌 3D CONTRIBUTION UNIVERSE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adikesh59/Adikesh59/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph"/>
 
 </div>
 
 ---
 
-## 🌌 DEVELOPER MINDSET
+## 📊 GITHUB PLAYER STATISTICS
 
 <div align="center">
 
-### `DREAM • DESIGN • DEVELOP • DEPLOY`
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adikesh59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>
 
-*"Code is not just about solving problems. It's about creating possibilities."*
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adikesh59&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:312e81,100:050816&height=120&section=footer" width="100%" />
+<img width="90%" src="https://streak-stats.demolab.com?user=Adikesh59&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF"/>
+
+</div>
+
+---
+
+## 🏁 DEVELOPER PHILOSOPHY
+
+<div align="center">
+
+### `THINK BIG. BUILD SMART. SHIP FAST.`
+
+*"The best way to predict the future is to build it."*
+
+### ⚡ THUNDER MAN — SYSTEM ONLINE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:020617&height=150&section=footer" width="100%"/>
 
 </div>
